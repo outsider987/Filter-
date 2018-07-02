@@ -1735,7 +1735,7 @@ pre code {
 }
 
 .form-control {
-    display: block;
+    display: white;
     width: 100%;
     padding: .375rem .75rem;
     font-size: 1rem;
@@ -1759,7 +1759,7 @@ pre code {
 }
 
 .form-control:focus {
-    color: #495057;
+    color: white;
     background-color: #fff;
     border-color: #b57ae1;
     outline: 0;
@@ -1767,12 +1767,12 @@ pre code {
 }
 
 .form-control::-webkit-input-placeholder {
-    color: #6c757d;
+    color: white;
     opacity: 1
 }
 
 .form-control:-ms-input-placeholder {
-    color: #6c757d;
+    color: white;
     opacity: 1
 }
 
