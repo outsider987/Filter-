@@ -17,7 +17,4 @@
 ## (三) 資料來源以及所需安裝事項 <br>
 1.API(來自高雄市政府)
 https://data.kcg.gov.tw/api/action/datastore_search?resource_id=92290ee5-6e61-456f-80c0-249eae2fcc97<br>
-2.[Git]:https://git-scm.com "GIT"
-[![baidu]](http://baidu.com) [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
-
-原文網址：https://read01.com/E76doR.html
+2.[![GIT]](https://git-scm.com) 
